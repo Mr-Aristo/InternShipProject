@@ -5,4 +5,4 @@
 - InternShipProjectDB.bacpac это базы данных
 
 ## Модель Данных 
-![](EntityRelations.png)
+![](https://github.com/Mr-Aristo/InternShipProject/blob/master/Entity%20Relations.PNG)
